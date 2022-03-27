@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2d0876a-9963-e653-a954-0e222a69d9c8
 resourcetype: Document
 title: 24.244s15 Shifting Domains
 uid: f11da236-67fc-411e-2511-c0e88e5c2676

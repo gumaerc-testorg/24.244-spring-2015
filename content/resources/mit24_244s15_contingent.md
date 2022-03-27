@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2d0876a-9963-e653-a954-0e222a69d9c8
 resourcetype: Document
 title: 24.244s15 Contingent Identity
 uid: c6f9e3d4-d11f-eee2-f154-c14d26e741ad

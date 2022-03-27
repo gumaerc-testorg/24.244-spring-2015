@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2d0876a-9963-e653-a954-0e222a69d9c8
 resourcetype: Document
 title: "24.244s15 Modal Logic\u2014Preliminaries"
 uid: 50363ecd-8c1e-bfd1-67f7-62554adb3434
