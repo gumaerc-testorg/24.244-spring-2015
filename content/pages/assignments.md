@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides homework assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ DUE
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 1 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework1)
+{{% resource_link 8ce3d440-ee3d-2d9c-df1e-24d3b45636e4 "Homework 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 3
@@ -43,7 +44,7 @@ Session 4
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 2 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework2)
+{{% resource_link dfb1c390-84a0-cf1c-8c02-1af674a2659f "Homework 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 5
@@ -55,7 +56,7 @@ Session 6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 3 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework3)
+{{% resource_link bf8aaf60-e337-6425-67f2-59a30a3bdb9e "Homework 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 7
@@ -67,7 +68,7 @@ Session 8
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 4 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework4)
+{{% resource_link 45ac63c2-165b-b6f3-7b02-ab741a041e89 "Homework 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 9
@@ -79,7 +80,7 @@ Session 10
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 5 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework5)
+{{% resource_link 756a5ddc-42c9-cd7e-7d97-63524f1c5524 "Homework 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 15
@@ -91,7 +92,7 @@ Session 16
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 6 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework6)
+{{% resource_link ba3482c7-81b1-03d1-af8a-dc6b2fe5ad1b "Homework 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 17
@@ -103,7 +104,7 @@ Session 19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 7 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework7)
+{{% resource_link 617f1807-857c-4e74-92ba-458b71fe8b56 "Homework 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 19
@@ -115,7 +116,7 @@ Session 21
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 8 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework8)
+{{% resource_link 3b029531-23e1-19cc-3722-320111638a43 "Homework 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 22
@@ -133,11 +134,11 @@ Modal Logic Paper (5–7 Pages)
 
 Assigned Session 15, due Session 23.
 
-[Paper Guidelines (PDF)]({{< baseurl >}}/resources/mit24_244s15_modallogic)
+{{% resource_link fecf2264-5bb3-729e-5155-45e8edd12f9d "Paper Guidelines (PDF)" %}}
 
 Take Home Final
 ---------------
 
 Due two days after last session.
 
-[Guidelines (PDF)]({{< baseurl >}}/resources/mit24_244s15_takehome)
+{{% resource_link f88558c2-93d5-e496-eecf-1d157dc84918 "Guidelines (PDF)" %}}

@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic counterfactuals,
   neighborhood semantics, probability, predicative necessity, etc.
-file: /media/courses/24-244-modal-logic-spring-2015/543869bb7ec9e3484443fd245fbc3625_MIT24_244S15_Counterfact.pdf
+file: /courses/24-244-modal-logic-spring-2015/543869bb7ec9e3484443fd245fbc3625_MIT24_244S15_Counterfact.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,5 @@ title: 24.244s15 Counterfactuals, Neighborhood Semantics, Probability, Predicati
   Necessity, etc
 uid: 543869bb-7ec9-e348-4443-fd245fbc3625
 ---
+This is a file that contains information regarding modal logic counterfactuals, neighborhood semantics, probability, predicative necessity, etc.
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, grading, and the schedule of course topics and assignment
+  due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +22,7 @@ Modal logic is the logic of necessity and possibility, and by extension of analo
 Prerequisites
 -------------
 
-[_24.241 Logic I_](/courses/24-241-logic-i-fall-2009/)
+[_24.241 Logic I_](/courses/24-241-logic-i-fall-2009)
 
 Grading
 -------
