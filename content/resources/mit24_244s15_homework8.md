@@ -6,6 +6,7 @@ file: /courses/24-244-modal-logic-spring-2015/3b02953123e119cc3722320111638a43_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 24.244s15 Homework 8
 uid: 3b029531-23e1-19cc-3722-320111638a43
 ---
 This is a file that contains information regarding modal logic homework 8.
-

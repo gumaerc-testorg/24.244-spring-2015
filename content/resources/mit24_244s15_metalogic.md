@@ -6,6 +6,7 @@ file: /courses/24-244-modal-logic-spring-2015/22f37389c3f3912fc59ba59808460623_M
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 24.244s15 Modal Predicate Metalogic
 uid: 22f37389-c3f3-912f-c59b-a59808460623
 ---
 This is a file that contains information regarding modal logic modal predicate metalogic.
-

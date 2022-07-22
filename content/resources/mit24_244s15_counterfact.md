@@ -6,6 +6,7 @@ file: /courses/24-244-modal-logic-spring-2015/543869bb7ec9e3484443fd245fbc3625_M
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 24.244s15 Counterfactuals, Neighborhood Semantics, Probability, Predicati
 uid: 543869bb-7ec9-e348-4443-fd245fbc3625
 ---
 This is a file that contains information regarding modal logic counterfactuals, neighborhood semantics, probability, predicative necessity, etc.
-
