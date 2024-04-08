@@ -9,7 +9,7 @@ uid: a7f685a3-e96f-ae14-8dbb-65357e15e38d
 ---
 
 Please refer to the assigned text for homework assignments and the take home final:  
-Hughes, and Cresswell. _A New Introduction to Modal Logic_. Routledge, 1996. ISBN: 9780415125994. \[Preview with [Google Books](http://books.google.com/books?id=_CB5wiBeaA4C&pg=PAfrontcover)\]
+Hughes, and Cresswell. _A New Introduction to Modal Logic_. Routledge, 1996. ISBN: 9780415125994. \[Preview with {{% resource_link "8eae18ff-cd41-4943-a942-f240d2e0c746" "Google Books" %}}\]
 
 Homework
 --------
