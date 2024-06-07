@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding modal logic modal
   predicate metalogic.
 file: /courses/24-244-modal-logic-spring-2015/22f37389c3f3912fc59ba59808460623_MIT24_244S15_Metalogic.pdf
+file_size: 598661
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
