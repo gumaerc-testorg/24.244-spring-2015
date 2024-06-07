@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding modal logic modal
   metalogic completeness.
 file: /courses/24-244-modal-logic-spring-2015/a4ab6b46bc0763e9638ae325f1e6cc3b_MIT24_244S15_Completeness.pdf
+file_size: 647740
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
