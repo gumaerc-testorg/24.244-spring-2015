@@ -9,7 +9,7 @@ title: Readings
 uid: ce9ee055-3461-07ae-c8a5-75ad25bd14e6
 ---
 
-Readings are from Hughes, and Cresswell. _A New Introduction to Modal Logic_. Routledge, 1996. ISBN: 9780415125994. \[Preview with {{% resource_link "8eae18ff-cd41-4943-a942-f240d2e0c746" "Google Books" %}}\]
+Readings are from Hughes, and Cresswell. _A New Introduction to Modal Logic_. Routledge, 1996. ISBN: 9780415125994. \[Preview with [Google Books](http://books.google.com/books?id=_CB5wiBeaA4C&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}

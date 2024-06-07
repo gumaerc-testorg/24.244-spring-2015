@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding modal logic counterfactuals,
   neighborhood semantics, probability, predicative necessity, etc.
 file: /courses/24-244-modal-logic-spring-2015/543869bb7ec9e3484443fd245fbc3625_MIT24_244S15_Counterfact.pdf
+file_size: 645259
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

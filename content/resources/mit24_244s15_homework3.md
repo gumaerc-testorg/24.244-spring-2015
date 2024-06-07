@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding modal logic homework
   3.
 file: /courses/24-244-modal-logic-spring-2015/bf8aaf60e337642567f259a30a3bdb9e_MIT24_244S15_Homework3.pdf
+file_size: 108602
 file_type: application/pdf
 learning_resource_types:
 - Assignments
