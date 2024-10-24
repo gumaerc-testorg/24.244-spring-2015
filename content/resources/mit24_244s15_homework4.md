@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic homework
   4.
-file: /courses/24-244-modal-logic-spring-2015/45ac63c2165bb6f37b02ab741a041e89_MIT24_244S15_Homework4.pdf
+file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/45ac63c2165bb6f37b02ab741a041e89_MIT24_244S15_Homework4.pdf
 file_size: 86087
 file_type: application/pdf
 learning_resource_types:
