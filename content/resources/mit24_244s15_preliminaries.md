@@ -2,7 +2,7 @@
 content_type: resource
 description: "This is a file that contains information regarding modal logic modal\
   \ logic\u2014preliminaries."
-file: /courses/24-244-modal-logic-spring-2015/50363ecd8c1ebfd167f762554adb3434_MIT24_244S15_Preliminaries.pdf
+file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/50363ecd8c1ebfd167f762554adb3434_MIT24_244S15_Preliminaries.pdf
 file_size: 681482
 file_type: application/pdf
 learning_resource_types:

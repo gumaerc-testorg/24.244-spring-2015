@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic  intensional
   objects.
-file: /courses/24-244-modal-logic-spring-2015/1f775a2366948bccf1ac9fabb0083560_MIT24_244S15_Intensional.pdf
+file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/1f775a2366948bccf1ac9fabb0083560_MIT24_244S15_Intensional.pdf
 file_size: 578068
 file_type: application/pdf
 learning_resource_types:
