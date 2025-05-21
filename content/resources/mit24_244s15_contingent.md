@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic contingent
   identity.
-file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/c6f9e3d4d11feee2f154c14d26e741ad_MIT24_244S15_Contingent.pdf
+file: /courses/24-244-modal-logic-spring-2015/c6f9e3d4d11feee2f154c14d26e741ad_MIT24_244S15_Contingent.pdf
 file_size: 577660
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic paper
   guidelines.
-file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/fecf22645bb3729e515545e8edd12f9d_MIT24_244S15_ModalLogic.pdf
+file: /courses/24-244-modal-logic-spring-2015/fecf22645bb3729e515545e8edd12f9d_MIT24_244S15_ModalLogic.pdf
 file_size: 83823
 file_type: application/pdf
 learning_resource_types:

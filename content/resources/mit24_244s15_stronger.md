@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic stronger
   systems.
-file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/948f67dc7b44b5b59431d4cb5bffcc29_MIT24_244S15_Stronger.pdf
+file: /courses/24-244-modal-logic-spring-2015/948f67dc7b44b5b59431d4cb5bffcc29_MIT24_244S15_Stronger.pdf
 file_size: 680731
 file_type: application/pdf
 learning_resource_types:
