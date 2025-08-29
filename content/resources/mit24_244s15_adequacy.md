@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic adequacy
   and extensions.
-file: /courses/24-244-modal-logic-spring-2015/79f526313b640f008cab4e8010d32b0c_MIT24_244S15_Adequacy.pdf
+file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/79f526313b640f008cab4e8010d32b0c_MIT24_244S15_Adequacy.pdf
 file_size: 681781
 file_type: application/pdf
 learning_resource_types:
