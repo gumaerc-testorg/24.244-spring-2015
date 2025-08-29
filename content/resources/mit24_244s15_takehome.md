@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic take home
   final guidelines.
-file: /courses/24-244-modal-logic-spring-2015/f88558c293d5e496eecf1d157dc84918_MIT24_244S15_TakeHome.pdf
+file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/f88558c293d5e496eecf1d157dc84918_MIT24_244S15_TakeHome.pdf
 file_size: 165106
 file_type: application/pdf
 learning_resource_types:

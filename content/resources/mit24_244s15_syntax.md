@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding modal logic modal
   syntax and semantics.
-file: /courses/24-244-modal-logic-spring-2015/a0b7b41b88480ab67b36e79d63150046_MIT24_244S15_Syntax.pdf
+file: /ol-ocw-studio-app/courses/24-244-modal-logic-spring-2015/a0b7b41b88480ab67b36e79d63150046_MIT24_244S15_Syntax.pdf
 file_size: 727459
 file_type: application/pdf
 learning_resource_types:
